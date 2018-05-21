@@ -1,0 +1,53 @@
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Release\eu4NET.exe.config
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Release\eu4NET.exe.manifest
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Release\eu4NET.application
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Release\eu4NET.exe
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Release\eu4NET.pdb
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.AboutForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.AutoTranslateForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.FormFindText.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.MainForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.MergeForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.ParsingStringForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.Properties.Resources.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.exe.manifest
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.application
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.exe
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.pdb
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Release\eu4NET.csprojResolveAssemblyReference.cache
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.exe.config
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.exe.manifest
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.application
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.exe
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.pdb
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.AboutForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.FormFindText.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.FormUpdating.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.MainForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.MergeForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.ParsingStringForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.Properties.Resources.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\eu4NET.csproj.GenerateResource.Cache
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.exe.manifest
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.application
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.exe
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.pdb
+H:\PROJECTS\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.exe.config
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.exe
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.pdb
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.csprojResolveAssemblyReference.cache
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.AboutForm.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.FormFindText.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.FormUpdating.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.MainForm.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.MergeForm.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.ParsingStringForm.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.Properties.Resources.resources
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\eu4NET.csproj.GenerateResource.Cache
+H:\PROJECTS\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.exe.manifest
+H:\PROJECTS\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.application
+H:\PROJECTS\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.exe
+H:\PROJECTS\CSharp eu4NET\eu4NET\bin\Release\EU4Localizer.pdb
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.exe.manifest
+H:\PROJECTS\CSharp eu4NET\eu4NET\obj\Release\EU4Localizer.application

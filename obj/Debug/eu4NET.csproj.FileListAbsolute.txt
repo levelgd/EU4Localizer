@@ -1,0 +1,36 @@
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.AutoTranslateForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.FormFindText.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.MainForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.ParsingStringForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.Properties.Resources.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.exe.manifest
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.exe
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.pdb
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Debug\eu4NET.exe.config
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Debug\eu4NET.exe.manifest
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Debug\eu4NET.application
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Debug\eu4NET.exe
+C:\Users\Win\Desktop\eu4NET\eu4NET\bin\Debug\eu4NET.pdb
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.application
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.MergeForm.resources
+C:\Users\Win\Desktop\eu4NET\eu4NET\obj\Debug\eu4NET.AboutForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.csprojResolveAssemblyReference.cache
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.AboutForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.FormFindText.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.MergeForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.ParsingStringForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.Properties.Resources.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.csproj.GenerateResource.Cache
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.MainForm.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4NET.FormUpdating.resources
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Debug\eu4loc.exe.config
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Debug\eu4loc.exe.manifest
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Debug\eu4loc.application
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Debug\eu4loc.exe
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\bin\Debug\eu4loc.pdb
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4loc.exe.manifest
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4loc.application
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4loc.exe
+H:\PROJECTS_ALL\CSharp eu4NET\eu4NET\obj\Debug\eu4loc.pdb
